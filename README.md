@@ -10,6 +10,6 @@ This is a survey paper on the relationship between computational cognitive neuro
 -[Deep Learning for Anomaly Detection in Networks and Images](Deep-Learning-for-Anomaly-Detection-in-Networks-and-Images/Deep-Learning-for-Anomaly-Detection-in-Networks-and-Images-AndyMalinsky.pdf) <br />
 This is a brief survey of some deep learning techniques applied to networks and images within the field of cybersecurity. This was made for course CS225: Research Writing for Computer Science.
 
--[Getting Started with GitHub on Windows 10 Using Git Bash](Getting-Started-with-GitHub-on-Windows-10-Using-Git-Bash/Getting-Started-with-GitHub-on-Windows-10-Using-Git-Bas-AndyMalinsky.pdf) <br />
+-[Getting Started with GitHub on Windows 10 Using Git Bash](Getting-Started-with-GitHub-on-Windows-10-Using-Git-Bash/Getting-Started-with-GitHub-on-Windows-10-Using-Git-Bash-AndyMalinsky.pdf) <br />
 This is a beginner's user manual on understanding Git on Windows 10. Demonstrated is how to use Git Bash to manage files on GitHub. This was made for course CS225: Research Writing for Computer Science.
 

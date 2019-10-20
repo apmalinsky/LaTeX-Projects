@@ -5,7 +5,7 @@ This is where I will be publishing practice papers and assignments using [LaTeX]
 A brief survey of some graph mining techniques.
 
 -[Computational Cognition and Deep Learning](Computational-Cognition-and-Deep-Learning/Computational-Cognition-and-Deep-Learning-AndyMalinsky.pdf) <br />
-A survey paper on the relationship between computational cognitive neuroscience and deep learningon within the areas of vision, reinforcement learning, and natural language understanding.
+A practice survey paper on the relationship between computational cognitive neuroscience and deep learningon within the areas of vision, reinforcement learning, and natural language understanding.
 
 -[Deep Learning for Anomaly Detection in Networks and Images](Deep-Learning-for-Anomaly-Detection-in-Networks-and-Images/Deep-Learning-for-Anomaly-Detection-in-Networks-and-Images-AndyMalinsky.pdf) <br />
 A brief survey of some deep learning techniques applied to networks and images within the field of cybersecurity.
